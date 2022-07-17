@@ -1,0 +1,16 @@
+{
+  "name": "taxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.3.0",
+    "tesseract.js": "^2.1.1"
+  }
+}
